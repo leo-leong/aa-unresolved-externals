@@ -1,0 +1,4 @@
+LIBRARY	Dll2
+
+EXPORTS
+    fun2=Dll1.fun1

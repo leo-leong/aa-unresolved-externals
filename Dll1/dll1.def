@@ -1,0 +1,6 @@
+LIBRARY	Dll1
+
+EXPORTS
+    ;user_ibsta                      @1
+    ;user_iberr                      @2
+    fun1                        @3
