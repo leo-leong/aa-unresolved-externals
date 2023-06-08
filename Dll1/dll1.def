@@ -1,6 +1,9 @@
 LIBRARY	Dll1
 
+;https://developercommunity.visualstudio.com/t/Different-entry-name-not-supported-in-Mo/10360313
+;Workaround for unresolved externals error 
 EXPORTS
     ;user_ibsta                      @1
     ;user_iberr                      @2
     fun1                        @3
+    fun2=fun1
