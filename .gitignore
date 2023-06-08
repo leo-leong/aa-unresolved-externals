@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Dll1/ARM64EC/Debug
+/Dll2/ARM64EC/Debug
+/Dll2/x64/Debug
+/ARM64EC/Debug
